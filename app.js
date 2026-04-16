@@ -1,0 +1,1 @@
+console.log("this is console classroom of gyanu prince")
